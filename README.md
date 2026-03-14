@@ -1,5 +1,15 @@
 # About Me:
-Hi  I'm Muhammad Hafeez ur Rehman<br><br> I'm a Backend Developer, Technical SEO Specialist, and Project Management Enthusiast with a passion for building scalable web applications and optimizing digital systems for performance and visibility. I graduated in Computer Science from NUTECH, Islamabad, and have hands-on experience developing backend architectures using Node.js, Express.js, MongoDB, and REST APIs.<br><br>I enjoy solving complex technical problems, improving system performance, and turning ideas into practical digital solutions. My experience spans backend development, SEO-driven performance optimization, and project coordination, allowing me to bridge the gap between development, business goals, and user experience.<br><br> I’m currently working on Backend systems, API development, and scalable web applications<br><br> I’m looking to collaborate on Node.js, Backend Development, and Web Applications<br><br> I’m looking for help with advanced backend architecture and scalable cloud systems<br><br> I’m currently learning NestJS, System Design, and Advanced Backend Engineering<br><br> Ask me about Node.js, Express.js, MongoDB, REST APIs, Technical SEO, and Web Performance Optimization<br><br> Fun fact: I combine backend engineering with SEO optimization to build websites that are not only functional but also highly visible on search engines.<br>
+Hi  I'm Muhammad Hafeez ur Rehman<br><br> Hi, I'm Muhammad Hafeez ur Rehman.
+
+I’m a Backend Developer and Project Management Enthusiast with a background in Computer Science from the National University of Technology. I have experience building scalable web applications using Node.js, Express.js, MongoDB, and REST APIs.
+
+I enjoy solving technical problems, improving system performance, and building practical digital solutions.
+
+Currently: Working on backend systems and API development
+Looking to collaborate on: Node.js and web applications
+Learning: NestJS, system design, and advanced backend engineering
+
+Fun fact: I like combining backend engineering with SEO optimization to build websites that are both powerful and highly visible on search engines.<br>
 
 
 ## 🌐 Socials:
