@@ -1,6 +1,6 @@
 # About Me:
-Hi  I'm Muhammad Hafeez ur Rehman<br><br> Hi, I'm Muhammad Hafeez ur Rehman.
-
+Hi  I'm Muhammad Hafeez ur Rehman
+<br>
 I’m a Backend Developer and Project Management Enthusiast with a background in Computer Science from the National University of Technology. I have experience building scalable web applications using Node.js, Express.js, MongoDB, and REST APIs.
 
 I enjoy solving technical problems, improving system performance, and building practical digital solutions.
